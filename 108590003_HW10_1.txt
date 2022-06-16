@@ -1,0 +1,3 @@
+1.test,ProgressBar.setProgress();
+2.URL, Integer, Long
+3.Implement onProgressUpdate(). Call publishProgress().

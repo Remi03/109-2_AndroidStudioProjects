@@ -1,0 +1,4 @@
+1.A message that your app sends and receives when an event of interest occurs in the app.
+2.registerReceiver() and unRegisterReceiver().
+3.You can receive the intent used to start activity in your broadcast receiver.
+4.LocalBroadcastManager

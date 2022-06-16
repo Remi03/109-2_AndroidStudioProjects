@@ -1,0 +1,4 @@
+1.activity_main.xml
+2.onOptionsItemSelected(MenuItem item)
+3.AlertDialog.Builder myAlertBuilder = new AlertDialog.Builder("Alert");
+4.In the onCreateDialog() method in the extension of DialogFragment.
